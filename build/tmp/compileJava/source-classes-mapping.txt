@@ -1,38 +1,42 @@
-org/example/TodoServerApplication.java
- org.example.TodoServerApplication
+org/example/adapter/Main.java
+ org.example.adapter.Main
 org/example/model/TodoRequest.java
  org.example.model.TodoRequest
-org/example/adapter/Cleaner.java
- org.example.adapter.Cleaner
+org/example/adapter/SocketAdapter.java
+ org.example.adapter.SocketAdapter
+org/example/adapter/AirConditioner.java
+ org.example.adapter.AirConditioner
+org/example/adapter/Electronic220V.java
+ org.example.adapter.Electronic220V
+org/example/aop/AopAdapter.java
+ org.example.aop.AopAdapter
 org/example/controller/TodoController.java
  org.example.controller.TodoController
+org/example/TodoServerApplication.java
+ org.example.TodoServerApplication
+org/example/proxy/Main.java
+ org.example.proxy.Main
+org/example/adapter/Cleaner.java
+ org.example.adapter.Cleaner
+org/example/proxy/BrowserProxy.java
+ org.example.proxy.BrowserProxy
+org/example/proxy/Html.java
+ org.example.proxy.Html
+org/example/proxy/IBrowser.java
+ org.example.proxy.IBrowser
 org/example/adapter/Electronic110V.java
  org.example.adapter.Electronic110V
 org/example/service/TodoService.java
  org.example.service.TodoService
 org/example/model/TodoResponse.java
  org.example.model.TodoResponse
+org/example/proxy/Browser.java
+ org.example.proxy.Browser
 org/example/repository/TodoRepository.java
  org.example.repository.TodoRepository
 org/example/model/TodoModel.java
  org.example.model.TodoModel
 org/example/adapter/HairDryer.java
  org.example.adapter.HairDryer
-org/example/adapter/AirConditioner.java
- org.example.adapter.AirConditioner
-org/example/adapter/Electronic220V.java
- org.example.adapter.Electronic220V
-org/example/adapter/SocketAdapter.java
- org.example.adapter.SocketAdapter
-org/example/proxy/Browser.java
- org.example.proxy.Browser
-org/example/proxy/Html.java
- org.example.proxy.Html
-org/example/adapter/Main.java
- org.example.adapter.Main
-org/example/proxy/IBrowser.java
- org.example.proxy.IBrowser
-org/example/proxy/BrowserProxy.java
- org.example.proxy.BrowserProxy
-org/example/proxy/Main.java
- org.example.proxy.Main
+org/example/aop/Main.java
+ org.example.aop.Main

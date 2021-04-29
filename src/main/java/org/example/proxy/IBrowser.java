@@ -1,5 +1,5 @@
 package org.example.proxy;
 
 public interface IBrowser {
-    Html show();
+    Html show() throws InterruptedException;
 }
