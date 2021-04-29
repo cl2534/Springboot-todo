@@ -24,5 +24,15 @@ org/example/adapter/Electronic220V.java
  org.example.adapter.Electronic220V
 org/example/adapter/SocketAdapter.java
  org.example.adapter.SocketAdapter
+org/example/proxy/Browser.java
+ org.example.proxy.Browser
+org/example/proxy/Html.java
+ org.example.proxy.Html
 org/example/adapter/Main.java
  org.example.adapter.Main
+org/example/proxy/IBrowser.java
+ org.example.proxy.IBrowser
+org/example/proxy/BrowserProxy.java
+ org.example.proxy.BrowserProxy
+org/example/proxy/Main.java
+ org.example.proxy.Main
